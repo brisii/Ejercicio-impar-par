@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\bin\Debug\net6.0\Par-impar.exe
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\bin\Debug\net6.0\Par-impar.deps.json
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\bin\Debug\net6.0\Par-impar.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\bin\Debug\net6.0\Par-impar.dll
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\bin\Debug\net6.0\Par-impar.pdb
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.dll
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\refint\Par-impar.dll
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.pdb
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\Par-impar.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Impar\Par-impar\Par-impar\obj\Debug\net6.0\ref\Par-impar.dll
